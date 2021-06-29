@@ -1,0 +1,144 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #dfe6e9;
+}
+header{
+	background-color: #e84393;
+	
+	height:200px;
+	
+}
+#camera,#nome{
+	float: left;
+}
+
+
+#barra{
+	background-color:#fd79a8;
+	border: 1px solid #fd79a8;
+	height:40px;
+	display: flex;
+	justify-content:center;
+	align-items:center;
+}
+nav .active a,
+nav a:hover{
+	background-color:  #e84393;
+	border-radius: 50px;
+	
+}
+nav a{
+	text-decoration: none;
+	padding: 5px;
+	text-transform: uppercase;
+	color: #ffffff;
+
+}
+nav ul{
+	display: flex;
+}
+#menu ul li{
+	list-style: none;
+
+}
+#nome{
+	margin-top: 80px;
+	margin-left: 30px;
+	font-family: forte;
+	font-size: 25px;
+}
+
+#camera{
+	margin-left: 40px;
+	padding:10px;
+}
+
+#botao{
+	border-left: 2px solid #ffffff;
+	border-right: 2px solid #ffffff;
+	border-top: 2px solid #ffffff;
+	width: 30px;
+	height: 15px;
+	margin-left: 180px;
+}
+#caixa{
+	border:2px solid #ffffff;
+	width:250px;
+	height: 150px;
+	border-radius: 20px;
+}
+#flash{
+	background-color: #ffffff;
+	border:1px solid #ffffff;
+	width: 20px;
+	height: 5px;
+	border-radius: 100px;
+	margin-top: 25px;
+	margin-left:50px;
+
+}
+#cano{
+	border:2px solid #ffffff;
+	width: 70px;
+	height: 70px;
+	border-radius: 100px;
+	margin-left:50px;
+	margin-top: 20px;
+
+}
+
+
+#lente{
+	background-color: #ffffff;
+	width: 50px;
+	height: 50px;
+	border-radius: 100px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.galeria{
+	display: flex;
+	flex-direction:column-reverse;
+	margin:100px;
+
+	}
+
+#bebe{
+	height: 200px;
+	width: 300px;
+	margin: 5px;
+	border-radius: 100px;
+}
+#adulto{
+	height: 500px;
+	width: 400px;
+	margin: 5px;
+	border-radius: 100px;
+}
+#espaco_aberto{
+	height: 250px;
+	width: 250px;
+	margin: 5px;
+	border-radius: 100px;
+}
+
+#rodape{
+	background-color: 
+}
+
+#luendra{
+	height: 150px;
+	width: 150px;
+	border-radius: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	}
+
+	#rodape{
+		background-color: #cc3366;
+		width: 100%;
+		height: 220px;
+
+	}

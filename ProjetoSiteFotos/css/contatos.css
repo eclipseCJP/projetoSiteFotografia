@@ -1,0 +1,13 @@
+.acesso{
+	background-color: red;
+	width: 300px;
+	height: 170px;
+	margin-left: 1024px;
+	padding-left: 5px;
+}
+.acesso h4{
+	margin-left: 5px;
+}
+.formulario{
+	background-color: red;
+}
